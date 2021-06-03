@@ -1,8 +1,8 @@
 import torch
 import argparse
-from TextLSTM import TextLSTM
-from TextCNN import TextCNN
-from TextMLP import TextMLP
+from models.TextLSTM import TextLSTM
+from models.TextCNN import TextCNN
+from models.TextMLP import TextMLP
 import preprocess
 import dataset
 from tqdm import tqdm
