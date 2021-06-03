@@ -50,7 +50,7 @@ To specify which model to use, or other parameters, refer to the following table
 
 The following packages are required, and are given in `requirements.txt`:
 
-```python
+```text
 torch==1.8.1
 torchtext==0.9.1
 tqdm
